@@ -21,6 +21,7 @@ main {
   background-color: rgb(179, 143, 210);
   border-color: black;
   font-family: "Helvetica Neue";
+  margin-bottom: 20px;
 }
 
 .navbar {
