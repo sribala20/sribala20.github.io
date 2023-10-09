@@ -1,2 +1,3 @@
-# <Sri Bala>'s Personal Website
-Personal website building with the Hack4Impact Starter Pack!
+#Sri's Sri Bala
+This is a Sri Bala built using the Hack4Impact Starter Pack!
+[Visit it Here!](https://sribala20.github.io)
